@@ -7,58 +7,48 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Summary
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Experienced software engineer with 5+ years in big tech and startups, specializing in building scalable systems and delivering high-quality software used by millions. Worked in cross-geographical teams and consistently recognized as a top performer, earning early promotions and excellent ratings.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Microsoft, Hyderabad, India
+**Software Engineer II**  
+*June 2020 - Present*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Database watcher**: Delivered various features including authentication, monitoring, health validation, and scale, increasing scale and resiliency. Utilized MSAL, OpenTelemetry, and Resource validation.
+- **Extensibility**: Developed multiple micro-services for the extensibility charter of Azure Migrate, decreasing partner on-boarding time by 71%. Independently responsible for on-boarding MySQL partner by developing a Partner Orchestration Service.
+- **Appliance Configuration Manager**: Re-platformed the IIS-based Application Configuration Manager to a micro-service architecture with an Appliance service at its core, facilitating the discovery of around 1 million machines per month.
+- **Azure Portal**: Developed Azure portal blades, surpassing Azure standards of blade load times and other KPIs. Led the migration of KnockoutJS blades to the modern React framework, reducing blade load times and improving re-usability.
+
+### AFour Technologies, Pune, India
+**Software Engineer Intern**  
+*January 2020 - June 2020*
+
+- **QAccelerator**: Developed a smart testing utility that creates a graphical association of requests/function calls with test cases using Neo4j and MongoDB, reducing tester requirements by 75% per team.
+
+### Microsoft, Hyderabad, India
+**Software Engineer Intern**  
+*May 2019 - July 2019*
+
+- **Azure Repos Bot for Slack**: Developed a bot for Slack enabling users to interact with Azure Repos from Slack without leaving the platform.
+
+## Education
+
+### Birla Institute of Technology and Science, Pilani, Hyderabad, India
+**Bachelor of Engineering**  
+*August 2016 – June 2020*
+
+## Projects
+
+- **Artificial Intelligence (GPT) powered migrate assessments**:
+  - Developed an alternative form of SKU and Disk assessment to replace existing methods of CPU benchmarking and performance calculation.
+  - Fine-tuned the application on traditional performance data and public documentation with Curie as the base model.
+
+## Programming Skills
+
+- **Languages**: C#, Java, JavaScript, Python, Typescript
+- **Frameworks**: ASP.NET Core, Bootstrap, CosmosDB (NoSQL), Django, Grafana, Kafka, Kubernetes, KnockoutJS, MongoDB, MySQL, Neo4j, NodeJS, OpenTelemetry, React, Service Fabric, SQL
+- **Developer Tools**: Amazon Web Services, Azure, Copilot, Docker, Git, GitHub, Jira, PowerBI, Visual Studio
