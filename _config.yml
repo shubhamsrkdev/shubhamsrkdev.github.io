@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shubham Sharma / Portfolio"
+title                    : "Shubham Sharma"
 title_separator          : "-"
 name                     : &name "Shubham Sharma"
 description              : &description "personal description"
