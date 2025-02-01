@@ -1,5 +1,5 @@
 ---
-title: "The Dijkstra Theorem: Your GPS's Secret Sauce 🚩"
+title: "The Dijkstra Theorem: Your shortest path to success 🚩"
 date: 2024-12-14
 permalink: /posts/2024/12/blog-post-4/
 tags:
