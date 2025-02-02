@@ -24,7 +24,7 @@ Welcome to my photo catalogue. Below are some of my favorite images, neatly orga
 ---
 
 ## Photo 1: [Title of Image]
-![Photo 1](image/bio-photo.jpg)
+![Photo 1](/images/bio-photo.jpg)
 *Description or context about this photo.*
 
 ---
