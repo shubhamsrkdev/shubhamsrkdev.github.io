@@ -22,8 +22,6 @@ A **Smart Mirror** is a two-way mirror with an electronic display behind it, sho
 - **Voice Control** (using Google Assistant SDK)
 - **Custom Modules** (e.g., reminders, to-do lists)
 
-![Smart Mirror Interface](https://example.com/smart-mirror-interface.jpg)
-
 ## Components Required
 
 ### Hardware
