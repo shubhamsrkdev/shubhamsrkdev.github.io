@@ -199,7 +199,7 @@ A **Smart Mirror** is a two-way mirror with an electronic display behind it, sho
 6. **Power Up and Test:**
    - Connect all components, power up the Raspberry Pi, and ensure the smart mirror display is functioning correctly.
 
-![Smart Mirror Assembly](https://example.com/smart-mirror-assembly.jpg)
+![Smart Mirror Assembly](/images/imag%201_24259.png)
 
 ### Step 6: Adding Voice Control with Google Assistant
 
