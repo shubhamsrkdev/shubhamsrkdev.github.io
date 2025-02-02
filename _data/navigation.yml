@@ -9,7 +9,7 @@ main:
     url: /year-archive/
 
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
     
   - title: "CV"
     url: /cv/
