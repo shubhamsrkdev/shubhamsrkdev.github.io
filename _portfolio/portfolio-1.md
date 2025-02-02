@@ -4,8 +4,6 @@ excerpt: "A personalized movie recommendation tool powered by Large Language Mod
 collection: portfolio
 ---
 
-# Movie Recommendation System (LLM-Based)
-
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/shubhamsrkdev/Movie-Recommendation-System-LLM-Based)
 
 Welcome to the **Movie Recommendation System (LLM-Based)**, a personalized movie recommendation tool powered by Large Language Models (LLMs) like OpenAI's GPT. This project dynamically generates movie suggestions based on user preferences without relying on a static, local movie database.
@@ -60,13 +58,11 @@ Movie-Recommendation-System-LLM-Based/
    - On a scale of 1-10, how popular do you want the movie to be? *8*
 
 3. **View Recommendations:**
-   ```
    Recommended Movies:
    - The Grand Budapest Hotel
    - Crazy Rich Asians
    - The Intern
    - La La Land
-   ```
 
 ---
 
