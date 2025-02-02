@@ -11,4 +11,30 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+# Photo Catalogue
+
+Welcome to my photo collection! Below is a catalogue of my favorite photos.
+
+## 📸 Photo Gallery
+
+### Nature
+
+| ![Nature 1](/images/editing-talk.png) | ![Nature 2](/images/editing-talk.png) | ![Nature 3](/images/editing-talk.png) |
+|:-------------------------------:|:-------------------------------:|:-------------------------------:|
+| Caption 1                      | Caption 2                      | Caption 3                      |
+
+### Travel
+
+| ![Travel 1](path/to/travel1.jpg) | ![Travel 2](path/to/travel2.jpg) | ![Travel 3](path/to/travel3.jpg) |
+|:--------------------------------:|:--------------------------------:|:--------------------------------:|
+| Caption 4                       | Caption 5                       | Caption 6                       |
+
+### Personal Moments
+
+| ![Personal 1](path/to/personal1.jpg) | ![Personal 2](path/to/personal2.jpg) | ![Personal 3](path/to/personal3.jpg) |
+|:------------------------------------:|:------------------------------------:|:------------------------------------:|
+| Caption 7                           | Caption 8                           | Caption 9                           |
+
+---
+
+*Replace `path/to/image.jpg` with the actual path to your photos and add appropriate captions.*
