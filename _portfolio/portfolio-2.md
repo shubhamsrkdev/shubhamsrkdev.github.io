@@ -6,7 +6,7 @@ collection: portfolio
 
 # Smart Mirror Project Using Python and Raspberry Pi
 
-![Smart Mirror Setup](https://example.com/smart-mirror-setup.jpg)
+![Smart Mirror Setup](/images/final_front_big.jpg)
 
 ## Overview
 
