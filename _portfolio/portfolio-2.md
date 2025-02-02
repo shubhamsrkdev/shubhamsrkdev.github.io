@@ -1,6 +1,6 @@
 ---
 title: "Smart Mirror Project Using Python and Raspberry Pi"
-excerpt: "A **Smart Mirror** is a two-way mirror with an electronic display behind it, showing useful information"
+excerpt: "A **Smart Mirror** is a two-way mirror with an electronic display behind it, showing useful information such as time, weather, calendar events, and news updates."
 collection: projects
 ---
 
