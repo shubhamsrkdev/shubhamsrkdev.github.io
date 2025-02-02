@@ -1,7 +1,7 @@
 ---
 title: "Movie Recommendation System (LLM-Based)"
 excerpt: "A personalized movie recommendation tool powered by Large Language Models (LLMs) like OpenAI's GPT."
-collection: portfolio
+collection: projects
 ---
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/shubhamsrkdev/Movie-Recommendation-System-LLM-Based)
