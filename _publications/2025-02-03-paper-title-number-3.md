@@ -18,8 +18,7 @@ date: 2025-02-03
 ---
 
 ## Photo 3: [Mount Mtatsminda]
-![Photo 3](/images/Tbilisi/Mount_Mtatsminda.JPG)
-*Description or context about this photo.*
+![Photo 3](/images/IMG_2868.JPG)
 
 ---
 
