@@ -17,24 +17,48 @@ Welcome to my photo collection! Below is a catalogue of my favorite photos.
 
 ## 📸 Photo Gallery
 
-### Nature
+# Photo Catalogue
 
-| ![Nature 1](/images/editing-talk.png) | ![Nature 2](/images/editing-talk.png) | ![Nature 3](/images/editing-talk.png) |
-|:-------------------------------:|:-------------------------------:|:-------------------------------:|
-| Caption 1                      | Caption 2                      | Caption 3                      |
-
-### Travel
-
-| ![Travel 1](path/to/travel1.jpg) | ![Travel 2](path/to/travel2.jpg) | ![Travel 3](path/to/travel3.jpg) |
-|:--------------------------------:|:--------------------------------:|:--------------------------------:|
-| Caption 4                       | Caption 5                       | Caption 6                       |
-
-### Personal Moments
-
-| ![Personal 1](path/to/personal1.jpg) | ![Personal 2](path/to/personal2.jpg) | ![Personal 3](path/to/personal3.jpg) |
-|:------------------------------------:|:------------------------------------:|:------------------------------------:|
-| Caption 7                           | Caption 8                           | Caption 9                           |
+Welcome to my photo catalogue. Below are some of my favorite images, neatly organized for your viewing pleasure.
 
 ---
 
-*Replace `path/to/image.jpg` with the actual path to your photos and add appropriate captions.*
+## Photo 1: [Title of Image]
+![Photo 1](image/bio-photo.jpg)
+*Description or context about this photo.*
+
+---
+
+## Photo 2: [Title of Image]
+![Photo 2](path/to/photo2.jpg)
+*Description or context about this photo.*
+
+---
+
+## Photo 3: [Title of Image]
+![Photo 3](path/to/photo3.jpg)
+*Description or context about this photo.*
+
+---
+
+## Photo 4: [Title of Image]
+![Photo 4](path/to/photo4.jpg)
+*Description or context about this photo.*
+
+---
+
+## Photo 5: [Title of Image]
+![Photo 5](path/to/photo5.jpg)
+*Description or context about this photo.*
+
+---
+
+## Photo 6: [Title of Image]
+![Photo 6](path/to/photo6.jpg)
+*Description or context about this photo.*
+
+---
+
+*Continue adding photos by following the same format!*
+
+
