@@ -4,10 +4,6 @@ excerpt: "A **Smart Mirror** is a two-way mirror with an electronic display behi
 collection: projects
 ---
 
-# Smart Mirror Project Using Python and Raspberry Pi
-
-![Smart Mirror Setup](/images/final_front_big.jpg)
-
 ## Overview
 
 A **Smart Mirror** is a two-way mirror with an electronic display behind it, showing useful information such as time, weather, calendar events, and news updates. This project uses a **Raspberry Pi** and **Python** to build a fully customizable smart mirror that integrates various APIs and modules to enhance its functionality. This guide will walk you through each step, from gathering materials to coding and assembling the mirror.
@@ -225,11 +221,9 @@ A **Smart Mirror** is a two-way mirror with an electronic display behind it, sho
 
 This **Smart Mirror Project** not only adds a futuristic touch to your home but also serves as a practical tool for everyday information. With detailed customization options, you can continuously expand its capabilities to suit your needs. 
 
-![Final Smart Mirror](https://example.com/final-smart-mirror.jpg)
+![Final Smart Mirror](/images/final_front_big.jpg)
 
 ---
-
-**Note:** Replace the placeholder image URLs with your own project images to showcase your build effectively.
 
 Happy Building! 🚀
 
