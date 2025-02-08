@@ -62,7 +62,6 @@ Movie-Recommendation-System-LLM-Based/
    - The Grand Budapest Hotel
    - Crazy Rich Asians
    - The Intern
-   - La La Land
 
 ---
 
